@@ -1,5 +1,6 @@
 # chitter-challenge-js
 
+WORK IN PROGRESS
 
 Log-in page
 
